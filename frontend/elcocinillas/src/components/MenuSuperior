@@ -1,8 +1,8 @@
-<ul>
-    <li><a href="#">Inicio</a></li>
-    <li><a href="#">Top Recetas</a></li>
-    <li><a href="#">Filtros</a></li>
-    <li><a href="#">Usuarios</a></li>
-    <li><a href="#">Búsqueda</a></li>
-    <li><a href="#">Iniciar Sesión</a></li>
-</ul>
+<menu>
+  <li><button onclick="copy()">Inico</button></li>
+  <li><button onclick="cut()">Top Recetas</button></li>
+  <li><button onclick="paste()">Filtros</button></li>
+  <li><button onclick="paste()">Usuarios</button></li>
+  <li><button onclick="paste()">Búsqueda</button></li>
+  <li><button onclick="paste()">Iniciar sesión</button></li>
+</menu>
