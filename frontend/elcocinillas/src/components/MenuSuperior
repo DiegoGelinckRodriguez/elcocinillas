@@ -1,5 +1,5 @@
 <menu>
-  <li><button onclick="copy()">Inico</button></li>
+  <li><button onclick="copy()">Inicio</button></li>
   <li><button onclick="cut()">Top Recetas</button></li>
   <li><button onclick="paste()">Filtros</button></li>
   <li><button onclick="paste()">Usuarios</button></li>
